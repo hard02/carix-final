@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ritik2727/char_pahiya.git"
+    "url": "git+https://github.com/hard02/carix-final.git"
   },
-  "author": "TEAM SPEED",
+  "author": "Whyuask",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ritik2727/char_pahiya/issues"
+    "url": "https://github.com/hard02/carix-final/issues"
   },
-  "homepage": "https://github.com/ritik2727/char_pahiya#readme",
+  "homepage": "https://github.com/hard02/carix-final#readme",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
